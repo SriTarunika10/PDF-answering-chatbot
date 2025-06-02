@@ -55,5 +55,5 @@ LLaMA 2 7B requires a GPU with at least 12-16GB VRAM for efficient inference.
 
 ## For any questions or collaboration, feel free to contact:
 Sri Tarunika
-Email: sritarunika@example.com
+Email: sritarunikagunasekaran@gmail.com
 GitHub: https://github.com/SriTarunika10
